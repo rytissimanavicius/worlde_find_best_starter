@@ -27,10 +27,6 @@ def main():
             score = 0
     print(top_score)
     print(top_word)
-    
-# Visi zodziai prasidedantys su 's' raide turi 
-# auksciausia score... Kazkas negerai.
-# Galbut tikrina tik pirma raide? Todel tiek vienodai.
         
 if __name__ == "__main__":
     main()
